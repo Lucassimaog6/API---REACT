@@ -1,0 +1,10 @@
+{
+    "name": "JavaScript",
+    "description": "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.",
+    "stack": "Front-end",
+    "icon": "javascript.png",
+    "usage": 10,
+    "desired": 10,
+    "loved": 10,
+    "category": "language"
+}
